@@ -1,0 +1,86 @@
+/*Jumbotron*/
+.jumbotron {
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.3)), url(../img/2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 670px;
+}
+
+.jumbotron .display-4 {
+    margin-top: 130px;
+}
+
+.jumbotron hr {
+    border-top: 1px solid white;
+}
+
+
+/*About*/
+.about i {
+    font-size: 120px;
+}
+
+.about-kanan {
+    position: relative;
+    top: 100px;
+}
+
+.about-kanan h3 {
+    font-weight: 200;
+    font-size: 50pt;
+}
+
+.about-kanan p {
+    font-weight: 100;
+    font-size: 20pt;
+}
+
+/*Image middle*/
+.image-middle {
+    min-height: 400px;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.3)), url(../img/1.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-top: 170px;
+}
+
+.image-middle h3 {
+    font-weight: 200;
+    font-size: 30pt;
+}
+
+/*Services*/
+.services h3 {
+    font-weight: 200;
+    font-size: 30pt;
+}
+
+/*Join Us*/
+.joinus {
+    min-height: 400px;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.3)), url(../img/3.jpg);
+    background-size: cover;
+    padding-top: 150px;
+}
+
+.joinus h2 .inputgroup {
+    position: relative;
+}
+
+.form-email {
+    background-color: transparent;
+}
+
+/*SocMed*/
+.ikon {
+    font-size: 40pt;
+}
+
+.fab:hover {
+    color: #21a6bb;
+}
+
+.socmed h3 {
+    font-weight: 200;
+    font-size: 30pt;
+}
